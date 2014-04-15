@@ -1,0 +1,29 @@
+{
+  "name": "satellite-tracker",
+  "version": "0.0.0",
+  "description": "A viewer to track satellites as they move in space.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/inzanedesignerz/satellite-tracker.git"
+  },
+  "keywords": [
+    "spaceapps",
+    "nasa",
+    "satellite",
+    "tracker"
+  ],
+  "author": "Akash C A",
+  "license": "ASF 2.0",
+  "bugs": {
+    "url": "https://github.com/inzanedesignerz/satellite-tracker/issues"
+  },
+  "homepage": "https://github.com/inzanedesignerz/satellite-tracker",
+  "dependencies": {
+    "express": "~4.0.0",
+    "logfmt": "~1.1.2"
+  }
+}
